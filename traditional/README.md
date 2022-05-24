@@ -1,0 +1,3 @@
+---TRADITIONAL---
+
+This is my first repo which i upload. As you know there is a tradition while learning a new code language to say "hello world!"... I said to make you smile...
